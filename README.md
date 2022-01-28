@@ -3,7 +3,7 @@
 ---
 
 <p align='center'>
-    <a href="#Sobre">Sobre</a> •
+    <a href="#📖">Sobre</a> •
     <a href="#Tecnologias">Tecnologias</a> •
     <a href="#Preview">Preview</a>
 </p>
@@ -12,13 +12,13 @@
 
 ---
 
-## Sobre
+## 📖 Sobre
 
 **Olá, Hoje estou um projeto com umas features bastante interessante para treinar o JS, um player de musicas, nesse projeto utilizei coisas basicas do JS. arrays, functions e objetos**
 
 ---
 
-## Tecnologias
+## 💻 Tecnologias
 
 <p align='center'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='50px' />
@@ -28,10 +28,10 @@
 
 ---
 
-## Preview
+## 📷 Preview
 
 <p aling="center">
-    <img alt="Readme" title="Readme" src="./gifs/Demo.gif">
+    <img alt="Readme" title="Readme" src="./Gifs/Demo.gif">
 </p>
 
 ---
