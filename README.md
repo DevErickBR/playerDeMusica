@@ -30,7 +30,7 @@
 
 ## 📷 Preview
 <p aling="center">
-    <img src="./gifs/demo.gif">
+    <img src="./gifs/Demo.gif">
 </p>
 
 ---
